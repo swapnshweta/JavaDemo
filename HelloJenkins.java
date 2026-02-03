@@ -3,8 +3,5 @@ public class HelloJenkins {
         System.out.println("Hello Jenkins!");
         System.out.println("Build triggered using GitHub Webhook 🚀");
         System.out.println("Welcome");
-        System.out.println("Hello Jenkins!");
-        System.out.println("Build triggered using GitHub Webhook 🚀");
-        System.out.println("Welcome");
-    }
+        
 }
